@@ -1,0 +1,1 @@
+import{i as e,r as t}from"./DGZlE7lc.js";function n(t){return e.map(e=>Math.round(t[e])).join(`,`)}function r(n){if(!n)return{...t};let r=n.split(`,`).map(Number);return r.length!==e.length||r.some(e=>!Number.isFinite(e)||e<0)?{...t}:Object.fromEntries(e.map((e,t)=>[e,r[t]]))}export{n,r as t};

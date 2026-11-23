@@ -1,0 +1,1 @@
+import{_ as e,w as t}from"./B2f837YL.js";import{l as n}from"./xt3j6lYQ.js";var r=n();function i(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t,{kicker:`404`,title:`Off the pitch`,lead:`This page, club or brand does not exist in PartnerScope.`}),(0,r.jsx)(e,{to:`/`,variant:`primary`,children:`Back to League Pulse`})]})}export{i as default};
